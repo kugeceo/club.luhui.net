@@ -1,6 +1,6 @@
 # club.luhui.net
 club.luhui.net
-
+鲁虺文化社区 http://club.luhui.net 鲁虺文化俱乐部鲁虺的文化圈分享平台鲁虺网上社区导航
 分离出来的文件
 index.html
 club.html
