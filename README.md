@@ -9,10 +9,10 @@ club.luhui.net
 
 
 
-分离出来的文件
-index.html
+从鲁虺群搜里分离出来的文件
+
 club.html
-404.html
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ad5686db-0472-44ae-93fe-ae69cb516a3a/deploy-status)](https://app.netlify.com/sites/shequ/deploys)
 
